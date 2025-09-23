@@ -4,7 +4,8 @@ about: Create a report to help us improve
 title: ''
 labels: 'bug'
 assignees: 'MrArnaudMichel'
-
+type: 'Bug'
+project: 'FL copro'
 ---
 
 **Describe the bug**
