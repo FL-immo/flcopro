@@ -1,0 +1,6 @@
+[submodule "flcopro-server"]
+	path = flcopro-server
+	url = git@github.com:FL-immo/flcopro-server.git
+[submodule "flcopro-client"]
+	path = flcopro-client
+	url = git@github.com:FL-immo/flcopro-client.git
